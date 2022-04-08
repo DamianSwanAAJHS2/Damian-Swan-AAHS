@@ -11,8 +11,8 @@ You can send me an email via <a href="mailto:damian.swan36@altoonastudent.com">d
 Check out some socials:<br>
 <a href="https://github.com/DamianSwanAAJHS2">Github</a><br>
 <a href="https://anotherkk5dire.web.app"> A cool human </a><br>
-<a href="https://ohno.damianswan.social"> My latest inschool project</a><br>
-<a href="https://dsaahs-vault.rf.gd">My Drive (Previously my website)</a><br>
+<a href="http://ohno.rf.gd"> My latest inschool project</a><br>
+<a href="https://dsaahs-vault.web.app">My Drive (Previously my website)</a><br>
 
 <sub><i>Remember to try to make the world a better and more fun place :)<br>I sure will do my best!</i></sub>
 
