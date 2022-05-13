@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<style>
+  a { cursor: url("https://github.com/DamianSwanAAJHS2/Damian-Swan-AAHS/blob/13e38006b9c4b34a358948bc7df7fb3022098dc0/docs/link.cur", alias }
+</style>
 Current student @ <a href="https://aahs.aasdcat.com">Altoona area high school</a>. <br>
 I am a student developer who trys to innovate and do creative things <br>
 I am proficient in <a href="https://adobe.com">Adobe</a>, <a href="https://autodesk.com">Autodesk</a>, and <a herf="https://jslang.info">Javascript</a>  <br>
