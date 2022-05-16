@@ -27,3 +27,8 @@ Check out some socials:<br>
 
 <sub><i>Remember to try to make the world a better and more fun place :)<br>I sure will do my best!<br>Don't forget to be creative! even in where no one belives in you, try your best</i></sub>
 
+
+<!--Add the following script at the bottom of the web page (before </body></html>)-->
+<script type="text/javascript">function add_chatinline(){var hccid=99112364;var nt=document.createElement("script");nt.async=true;nt.src="https://www.mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline();</script>
+
